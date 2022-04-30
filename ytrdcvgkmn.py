@@ -1,1 +1,2 @@
-print('abc')
+a = 'abc'
+print(a)
